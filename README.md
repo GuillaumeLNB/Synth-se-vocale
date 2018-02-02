@@ -1,3 +1,3 @@
 # Synth-se-vocale
 Praat script
-#Praat
+Se lance depuis Praat, après avoir importé la segmentation (.TextGrid) et le fichier son correspondant aux logatomes.
